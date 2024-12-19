@@ -21,16 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a link of the walkthrough of implemented features: https://youtu.be/YaZbJjvf9w0
 
-<iframe src='https://www.youtube.com/watch?v=YaZbJjvf9w0' title='Video Walkthrough' width='560' height ='315' alt='Video Walkthrough'> </iframe>
-
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with screen recording and posted the link on youtube. 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
