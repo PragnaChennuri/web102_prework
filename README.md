@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/YaZbJjvf9w0' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
+<img src='https://youtu.be/YaZbJjvf9w0' title='Video Walkthrough' width='560' height ='315' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with screen recording and posted the link on youtube. 
