@@ -19,11 +19,7 @@ The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-<!-- ## Video Walkthrough
 
-Here's a link of the walkthrough of implemented features: https://youtu.be/YaZbJjvf9w0
-
-GIF created with screen recording and posted the link on youtube.  -->
 ## Video Walkthrough
 
 Click the thumbnail below to watch the walkthrough of implemented features:
